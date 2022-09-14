@@ -1,6 +1,17 @@
-# Elite101-PreWork
-Repo for the ChatBot on repl.
+# Introduction
 
-Test README edit!
 
-test #2
+This is a repository created by *Shaayan*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
+```
